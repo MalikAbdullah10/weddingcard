@@ -8,7 +8,7 @@ export const couple = {
 // Local files live in public/assets (run `npm run assets` to download the originals).
 export const assets = {
   invitationArt: '/assets/invitation-art-456.png',
-  music: '/assets/alfaaz.mp3',
+  music: '/assets/teri-ore.mp3',
   eventBackgrounds: {
     mehndi: '/assets/mehndi.png',
     barat: '/assets/barat.png',
@@ -17,7 +17,7 @@ export const assets = {
 };
 
 export const music = {
-  title: 'Alfaaz',
+  title: 'Teri Ore',
 };
 
 // First celebration: 4 December 2026, 00:00 Pakistan time (UTC+05:00).

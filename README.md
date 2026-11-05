@@ -22,10 +22,9 @@ Already included in `public/assets/`:
 | `mehndi.png` | Mehndi card background (marigold garlands) |
 | `barat.png` | Barat card background (pink roses) |
 | `walima.png` | Walima card background (green florals) |
+| `teri-ore.mp3` | Background music |
 
-**Still needed: `alfaaz.mp3`.** The background music was never included in the source files. Either run
-`npm run assets` (downloads it from the original site) or save the file yourself as
-`public/assets/alfaaz.mp3`. Until then the music button shows "Music unavailable" and everything else works.
+Background music: `teri-ore.mp3` (also included in `public/assets/`). To change the song, replace that file and update the `music` entries in `src/data/wedding.js`.
 
 To swap any image, replace the file in `public/assets/` and keep the same filename.
 

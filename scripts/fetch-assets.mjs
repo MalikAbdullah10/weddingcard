@@ -18,7 +18,6 @@ const FILES = {
   'mehndi.png': 'Mahndi.png',
   'barat.png': 'Barat.png',
   'walima.png': 'Walima.png',
-  'alfaaz.mp3': 'Alfaaz (Lyrics) - Hamza Malik & Zain Zohaib [zO0y9LR9kpE] (mp3cut.net).mp3',
 };
 
 const exists = (file) => access(file).then(() => true, () => false);
